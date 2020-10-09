@@ -5,7 +5,7 @@ GEM
       i18n (~> 0.6, >= 0.6.4)
       multi_json (~> 1.0)
     colorize (0.7.3)
-    excon (0.39.3)
+    excon (0.76.0)
     httpclient (2.4.0)
     i18n (0.6.11)
     indentation (0.1.1)
